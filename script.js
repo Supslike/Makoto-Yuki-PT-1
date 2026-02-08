@@ -1,6 +1,6 @@
 const SFX_VOLUME = 100; // Volume ranges from 1 - 100
 const MESSGAE_SPEED = 20; // Interval between letters in milliseconds, lower = faster
-const NOSE_SFX = "./static/nose.MP3"; // Can switch to normal SFX and MEME SFX
+const NOSE_SFX = "./static/nose-meme.MP3"; // Can switch to normal SFX and MEME SFX
 
 const cheeks = "./static/cheeks.png";
 const default_face = "./static/default.png";
